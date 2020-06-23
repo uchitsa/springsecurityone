@@ -12,7 +12,7 @@
         <spring.mvc>4.0.0.RELEASE</spring.mvc>
         <javax.servlet>3.0.1</javax.servlet>
         <jstl.version>1.2</jstl.version>
-        <spring.security>3.2.0.RELEASE</spring.security>
+        <spring.security>4.2.16</spring.security>
     </properties>
 
     <dependencies>
